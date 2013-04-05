@@ -1,3 +1,5 @@
+**NEW HOME:** [https://github.com/codeforboston/bostongreenmap](https://github.com/codeforboston/bostongreenmap)
+
 # Boston Parks
 
 A website to explore parks and green spaces in the Boston Metro Area.
